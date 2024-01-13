@@ -1,8 +1,15 @@
 # segmentation-polyps
 About An ultimate list of polyp segmentation, including papers, codes, and related websites
 
-## Datasets and benchmarks
-| Name | Size | images | size of image | paper |
-| --- | --- | ---- | ---- | --- |
-| Kvasir-SEG | 1000 | variable | visit <a href="https://arxiv.org/pdf/1911.07069.pdf"> paper </a> |
+##  public Datasets 
+| Name | images | size of images | paper |
+| --- | --- | ---- | ---- |
+| Kvasir-SEG | 1000 | variable |<a href="http://dx.doi.org/ 10.1007/978- 3- 030- 37734- 2_37"> paper </a> |
+| CVC-ClinicDB | 612 | 384 × 288 |<a href="doi.org/10.1016/j.compmedimag.2015.02.007"> paper </a>|
+| CVC-ColonDB | 380 | 574 × 500 | <a href="10.1109/TMI.2015.2487997">paper</a>|
+| ETIS-Larib | 196 | 1225 × 966 | <a href="refhub.elsevier.com/S0010-4825(20)30450-9/sref38">paper</a> |
+| EndoScene | 60 |  574 x 500 | <a href="doi.org/10.1155/2017/4037190">paper</a>|
+
+
+
 

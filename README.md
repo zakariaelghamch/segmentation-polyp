@@ -10,6 +10,10 @@ About An ultimate list of polyp segmentation, including papers, codes, and relat
 | ETIS-Larib | 196 | 1225 × 966 | <a href="http://refhub.elsevier.com/S0010-4825(20)30450-9/sref38">paper</a> |
 | EndoScene | 60 |  574 x 500 | <a href="http://doi.org/10.1155/2017/4037190">paper</a>|
 
+## Polyps Segmentation Models 
+| Name | Title | authors |  Date | paper | code |
+| --- | --- | --- | --- | --- | | --- |
+| CAFE-Net | CAFE-Net: Cross-Attention and Feature Exploration Network for polyp segmentation | 
 
 
 

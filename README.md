@@ -11,9 +11,10 @@ About An ultimate list of polyp segmentation, including papers, codes, and relat
 | EndoScene | 60 |  574 x 500 | <a href="http://doi.org/10.1155/2017/4037190">paper</a>|
 
 ## Polyps Segmentation Models 
+
 | Name | Title | authors |  Date | paper | code |
-| --- | --- | --- | --- | --- | --- | --- |
-| CAFE-Net | CAFE-Net: Cross-Attention and Feature Exploration Network for polyp segmentation |<i> Guoqi Liu , Sheng Yao , Dong Liu , Baofang Chang, Zongyu Chen, Jiajia Wang, Jiangqi Wei</i> | 03/2024 | <a href="https://linkinghub.elsevier.com/retrieve/pii/S095741742302256X">paper</a> | |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| CAFE-Net | CAFE-Net: Cross-Attention and Feature Exploration Network for polyp segmentation |<i> Guoqi Liu , Sheng Yao , Dong Liu , Baofang Chang, Zongyu Chen, Jiajia Wang, Jiangqi Wei</i> | 03/2024 | <a href="https://linkinghub.elsevier.com/retrieve/pii/S095741742302256X">paper</a> |  --- --  |
 
 
 

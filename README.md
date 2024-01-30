@@ -14,7 +14,10 @@ About An ultimate list of polyp segmentation, including papers, codes, and relat
 
 | Name | Title | authors |  Date | paper | code |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| CAFE-Net | CAFE-Net: Cross-Attention and Feature Exploration Network for polyp segmentation |<i> Guoqi Liu , Sheng Yao , Dong Liu , Baofang Chang, Zongyu Chen, Jiajia Wang, Jiangqi Wei</i> | 03/2024 | <a href="https://linkinghub.elsevier.com/retrieve/pii/S095741742302256X"><FONT COLOR="#FFFF99">paper<FONT> </a> |  --- --  |
+| CAFE-Net | CAFE-Net: Cross-Attention and Feature Exploration Network for polyp segmentation |<i> Guoqi Liu , Sheng Yao , Dong Liu , Baofang Chang, Zongyu Chen, Jiajia Wang, Jiangqi Wei</i> | 03/2024 | <a href="https://linkinghub.elsevier.com/retrieve/pii/S095741742302256X">paper</a> |  code |
+|CSwinDoubleU-Net | CSwinDoubleU-Net: A double U-shaped network combined with convolution and Swin Transformer for colorectal polyp segmentation | <i>Yuanjie Lin, Xiaoxiang Han, Keyan Chen, Weikun Zhang, Qiaohong Liu,</i> | 03/2024 | <a href="https://linkinghub.elsevier.com/retrieve/pii/S1746809423011825">paper</a> | code |
+
+
 
 
 
